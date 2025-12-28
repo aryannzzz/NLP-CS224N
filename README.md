@@ -1,5 +1,5 @@
 # NLP-CS224N
-Personal repository for learning Natural Language Processing following Stanford's CS224N course (Winter 2021/2023).
+Personal repository for learning Natural Language Processing following Stanford's CS224N course (Winter 2021).
 
 ## Study Plan Overview
 
